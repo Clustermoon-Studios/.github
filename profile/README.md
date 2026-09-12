@@ -8,10 +8,10 @@ to get notified when we are releasing a new title. Or Consider watching our Team
 You-tube channel as it directly supports the studio!
 
 ### Useful Resources
-[[]] <- Link to David Wommack's Youtube Channel.
-[[]] <- Link to CM Studio You tube Channel.
-[[]] <- Link to CM Studio Instagram.
-[[]] <- Link to CM Studio Twitter/X/Blue sky.
+- [[]] <- Link to David Wommack's Youtube Channel.
+- [[]] <- Link to CM Studio You tube Channel.
+- [[]] <- Link to CM Studio Instagram.
+- [[]] <- Link to CM Studio Twitter/X/Blue sky.
 
 ### Contribution Guidelines
 Occasionally, we release public repositories intended for public use, or open source projects.
